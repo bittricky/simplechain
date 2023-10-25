@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bittricky/simplechain#readme",
   "dependencies": {
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^4.2.0",
     "level": "^4.0.0"
   }
 }
